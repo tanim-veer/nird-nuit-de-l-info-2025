@@ -1,8 +1,11 @@
-# Nuit de l'info 2025 - Equique Les 11 d'Inazuma
-
 # 🏛️ Résist'Classe - Mission NIRD
 
-> Projet réalisé durant la **Nuit de l'Info 2025** pour répondre au sujet "Le Village Numérique Résistant".
+**Nuit de l'Info 2025 — Équipe « Les 11 d'Inazuma »**
+
+**▶ [Jouer en ligne](https://tanim-veer.github.io/nird-nuit-de-l-info-2025/)**
+
+> Projet réalisé en équipe en une nuit, durant la **Nuit de l'Info 2025**, pour répondre au sujet "Le Village Numérique Résistant".
+> Ce dépôt est un fork du [dépôt de l'équipe](https://github.com/neal-giu/Inazuma11).
 
 ## 🎯 Le Concept
 Un "livre dont vous êtes le héros" interactif et éducatif. Le joueur incarne un directeur d'école qui doit résister aux GAFAM et adopter une démarche **NIRD** (Numérique Inclusif, Responsable et Durable).
@@ -24,6 +27,9 @@ Ce projet valide les défis suivants :
 * **Hébergement** : Compatible page statique (GitHub Pages / GitLab Pages).
 
 ## 🚀 Comment jouer ?
+Directement en ligne : **https://tanim-veer.github.io/nird-nuit-de-l-info-2025/**
+
+Ou en local :
 1.  Cloner le repo.
 2.  Ouvrir `index.html` dans n'importe quel navigateur.
 3.  C'est tout ! (Pas de `npm install`, pas de serveur).
